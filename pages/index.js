@@ -15,11 +15,7 @@ export default function Home() {
         <img className="rounded-tr-md rounded-tl-md h-48 w-full lg:h-auto lg:w-2/5 lg:rounded-bl-md lg:rounded-tr-none" src="/images/drawers.jpg" alt="drawers"></img>
         <div className="bg-white p-8 rounded-bl-md rounded-br-md lg:rounded-bl-none lg:rounded-tr-md">
           <h2 className="text-gray-700">Shift overal look and fell by adding these wonderfull tocuhes to furtiture in your home.</h2>
-          <p className="text-sm text-gray-500 mt-4">Ever been in a room and felt like
-            something was missing? Perhaps it felt
-            slightly bare and uninviting. I've got some
-            simple tips to help you make any room feel
-            complete.</p>
+          <p className="text-sm text-gray-500 mt-4">Ever been in a room and felt like something was missing? Perhaps it felt slightly bare and uninviting. I&apos;ve got some simple tips to help you make any room feel complete.</p>
           <div className="flex items-center mt-8">
             <div className="flex items-center">
               <img className="h-10 w-10 rounded-full" src="/images/avatar-michelle.jpg"></img>
